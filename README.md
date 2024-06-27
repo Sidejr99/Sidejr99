@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidejr99
-- 👀 I’m interested in ...web development and data science
+- 👀 I’m interested in ...web development and Networking
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...any asistance
 - 📫 How to reach me ...malilosaid99@gmail.com
